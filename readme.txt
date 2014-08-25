@@ -18,39 +18,39 @@
 	About
 
 		32x32 textures for the Minetest mod "Voidfill".
-	
+
 	Install
-	
+
 		Copy or move the image files from this directory to the Minetest texture
 		pack you are currently using.
-		
+
 		For example, if you are using "HDX 32", you would move these files to
 		the textures/HDX_32px directory in your Mintest installation directory.
-	
+
 	Voidfill on GitHub
-	
+
 		https://github.com/RacsoRhodes/voidfill
-		
+
 	Additional Textures on GitHub
-	
+
 		32x32
-		
+
 			https://github.com/RacsoRhodes/voidfill-textures-32
-			
+
 		64x64
-		
+
 			https://github.com/RacsoRhodes/voidfill-textures-64
-			
+
 		128x128
-		
+
 			https://github.com/RacsoRhodes/voidfill-textures-128
-			
+
 		256x256
-		
+
 			https://github.com/RacsoRhodes/voidfill-textures-256
-			
+
 		512x512
-		
+
 			https://github.com/RacsoRhodes/voidfill-textures-512
 
 --------------------------------------------------------------------------------
