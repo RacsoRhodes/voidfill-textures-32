@@ -15,7 +15,9 @@
 -- as published by Sam Hocevar. See the COPYING file for more details.
 --------------------------------------------------------------------------------
 
-	32x32 textures for the Minetest mod "Voidfill".
+	About
+
+		32x32 textures for the Minetest mod "Voidfill".
 	
 	Install
 	
@@ -29,7 +31,7 @@
 	
 		https://github.com/RacsoRhodes/voidfill
 		
-	Additional Textures
+	Additional Textures on GitHub
 	
 		32x32
 		
@@ -50,3 +52,7 @@
 		512x512
 		
 			https://github.com/RacsoRhodes/voidfill-textures-512
+
+--------------------------------------------------------------------------------
+-- EOF
+--------------------------------------------------------------------------------
